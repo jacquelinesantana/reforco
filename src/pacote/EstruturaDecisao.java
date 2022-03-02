@@ -72,6 +72,7 @@ public class EstruturaDecisao {
 				
 			default :
 				System.out.println("Opção de cor é inválida");
+				
 		}
 		
 		
